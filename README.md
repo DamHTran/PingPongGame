@@ -1,3 +1,3 @@
 # PingPongGame
 
-Create the Ping Pong game
+Create a Ping Pong game
